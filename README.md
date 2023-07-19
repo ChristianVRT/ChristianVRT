@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianvatvt@gmail.com)
 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=curistian&theme=dark">
-<img width=43.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=curistian&hide_progress=true&theme=dark">
+<img width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
