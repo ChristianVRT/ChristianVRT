@@ -3,8 +3,8 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531996495901)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianvatvt@gmail.com)
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=ChristianVRTT&theme=dark">
-<img width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianVRTT&layout=compact&theme=dark&size_weight=0&count_weight=0.5">
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=ChristianVRT&theme=dark">
+<img width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianVRT&layout=compact&theme=dark&size_weight=0&count_weight=0.5">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
